@@ -1,1 +1,1 @@
-# taskinator
+# taskinator by Stephen Pak
